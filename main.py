@@ -6,3 +6,5 @@ def substract(a, b):
 
 def multiply(a, b):
     return a * b
+
+Rafael ist ein Trottel
