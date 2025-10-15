@@ -4,5 +4,3 @@ Livecoding repo
  ## Zweite Überschrift
 
  ## Dritte Überschrift
-
- ## Vierte Überschrift
